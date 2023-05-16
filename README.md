@@ -6,9 +6,6 @@ Hello! I'm Ahmed Ali, a passionate software engineer with 4.5 years of experienc
 
 ### 🚀 Experience
 
-- iOS Developer at Metis International Limited (1 year)
-  - During my time at Metis International Limited, I worked as an iOS developer, contributing to the development of impactful mobile applications. Additionally, I had the opportunity to review Android code, expanding my skill set and gaining a broader understanding of the development process.
-
 - Remote iOS Developer at Modus Create (current)
   - Currently, I am working remotely as an iOS developer at Modus Create, collaborating with a talented team to deliver exceptional mobile experiences.
 
