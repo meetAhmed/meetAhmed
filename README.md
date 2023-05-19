@@ -31,11 +31,11 @@ I also maintain a Medium profile where I publish articles on various topics with
 
 I am always eager to connect with like-minded professionals, collaborate on exciting projects, and exchange knowledge. You can reach out to me through the following channels:
 
+- LinkedIn: [https://www.linkedin.com/in/meet-ahmed-ali](https://www.linkedin.com/in/meet-ahmed-ali)
+- Youtube: [https://youtube.com/@codeWithAhmedAli](https://youtube.com/@codeWithAhmedAli)
+- Medium: [https://medium.com/@codeWithAhmedAli](https://medium.com/@codeWithAhmedAli)
 - Portfolio: [https://meetahmed.github.io](https://meetahmed.github.io)
 - GitHub: [http://github.com/meetAhmed](http://github.com/meetAhmed)
-- LinkedIn: [https://www.linkedin.com/in/meet-ahmed-ali](https://www.linkedin.com/in/meet-ahmed-ali)
-- Medium: [https://medium.com/@codeWithAhmedAli](https://medium.com/@codeWithAhmedAli)
-- Youtube: [https://youtube.com/@codeWithAhmedAli](https://youtube.com/@codeWithAhmedAli)
 
 Let's connect and create remarkable solutions together! Feel free to reach out to me for any inquiries or potential collaboration opportunities.
 
