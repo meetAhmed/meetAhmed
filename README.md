@@ -2,7 +2,7 @@
 
 ## Software Engineer | Full Stack Developer
 
-Hello! I'm Ahmed Ali, a passionate software engineer with 4.5 years of experience in developing robust and innovative solutions. I specialize in both Android and iOS platforms and have a diverse background in working with various clients and projects.
+Hello! I'm Ahmed Ali, a passionate software engineer with 5 years of experience in developing robust and innovative solutions. I specialize in both Android and iOS platforms and have a diverse background in working with various clients and projects.
 
 ### 🚀 Experience
 
