@@ -1,8 +1,8 @@
 # Ahmed Ali
 
-## Software Engineer | Full Stack Developer
+## iOS Developer
 
-Hello! I'm Ahmed Ali, a passionate software engineer developing robust and innovative solutions. I specialize in both Android and iOS platforms and have a diverse background in working with various clients and projects.
+Hello! I'm Ahmed Ali, a passionate iOS Developer, developing robust and innovative solutions.
 
 ### 🚀 Experience
 
