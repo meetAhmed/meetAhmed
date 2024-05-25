@@ -1,9 +1,9 @@
 ### Hello, I'm Ahmed Ali 👋
 
 #### About Me
-- Mobile Developer with over 5 years of experience in iOS and cross-platform applications.
-- I'm passionate about creating robust, user-centric applications and continuously enhancing my skills with the latest iOS technologies.
-- I specialize in problem-solving, attention to detail, and collaboration, bringing innovative solutions to life.
+- I am a Mobile Developer with over 5 years of experience.
+- While I excel in iOS development, I am also proficient in Android and React Native.
+- I thrive on solving complex problems and continuously enhancing my skills with the latest technologies.
 
 #### Skills
 - iOS Development: Swift, Objective-C, SwiftUI, UIKit, Cocoa Touch, XCTest, Async Await, Combine.
