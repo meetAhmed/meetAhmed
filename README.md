@@ -1,15 +1,11 @@
 ### Hello, I'm Ahmed Ali 👋
 
 #### About Me
-- I am a Mobile Developer with over 5 years of experience.
-- While I excel in iOS development, I am also proficient in Android and React Native.
-- I thrive on solving complex problems and continuously enhancing my skills with the latest technologies.
+iOS developer with over 3.5 years of experience, specializing in the development of high-performance and scalable iOS applications.
 
-#### Skills
-- iOS Development: Swift, Objective-C, SwiftUI, UIKit, Cocoa Touch, XCTest, Async Await, Combine.
-- React Native: React.Js, HTML, CSS, Javascript.
-- Android Development: Kotlin, Java
-- Backend: Go.
+- I'm constantly looking for new ways to improve my skills and stay up-to-date with the latest iOS technologies.
+- I like to share what I've learned by contributing to projects on GitHub and writing articles. 
+- In my free time, I enjoy watching science fiction shows to relax and spark my creativity.
 
 #### Social Links
 - [LinkedIn](https://www.linkedin.com/in/meet-ahmed-ali/)
