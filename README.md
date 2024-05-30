@@ -1,7 +1,7 @@
 ### Hello, I'm Ahmed Ali 👋
 
 #### About Me
-iOS developer with over 3.5 years of experience, specializing in the development of high-performance and scalable iOS applications.
+Highly skilled iOS developer with expertise in building innovative, high-performance, and scalable apps.
 
 - I'm constantly looking for new ways to improve my skills and stay up-to-date with the latest iOS technologies.
 - I like to share what I've learned by contributing to projects on GitHub and writing articles. 
