@@ -7,7 +7,7 @@ In 2018, I learned about freelancing and saw it as an opportunity to implement m
 
 In January 2021, after COVID, I joined Buzzware Tech to work on the Smart Tracker iOS app for Vodafone Qatar. It was an on-site job, where I learned how to work in a team, share my knowledge with teammates, and learn from them.
 
-In July 2022, I joined Modus Create as a remote iOS Developer to work on the Alamo Drafthouse iOS app. Modus Create is an international organization, so I learned a lot about diversity.
+In July 2022, I joined Modus Create. I am working as Senior iOS Developer on the Alamo Drafthouse iOS app. Modus Create is an international organization, so I learned a lot about diversity.
 
 I enjoy solving complex problems and continuously seek to enhance my skills and contribute to innovative projects. I am open to new opportunities and may need visa/relocation support. 
 
