@@ -1,7 +1,7 @@
 ### Hello, I'm Ahmed Ali 👋
 
 #### About Me
-I am a 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝐨𝐯𝐞𝐫 6 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. Growing up, I was very curios about how games are developed, which led me to enroll in a software engineering degree.
+I am an iOS 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝐨𝐯𝐞𝐫 6 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. Growing up, I was very curios about how games are developed, which led me to enroll in a software engineering degree.
 
 In 2018, I learned about freelancing and saw it as an opportunity to implement my mobile development skills on real projects. I developed several iOS and Android apps using Java, Kotlin, Swift, SwiftUI, and UIKit. 
 
@@ -13,8 +13,7 @@ I enjoy solving complex problems and continuously seek to enhance my skills and 
 
 #### Career Highlights
 - Over 6 years of experience in Mobile Apps Developments.
-- Proficient in using Xcode, Android Studio, Kotlin, Java, SwiftUI, Combine, async await, UIKit,
-Firebase, Git, Architecture Patterns.
+- Proficient in using Xcode, Android Studio, Kotlin, Java, SwiftUI, Combine, async await, UIKit, Firebase, Git, Architecture Patterns.
 - Recently started to learn React Native.
 - Can work independently as well as in a team.
 - Excellent communication skills (English).
