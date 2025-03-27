@@ -1,4 +1,4 @@
-Experienced iOS developer (with over 6 years of experience). While I excel at iOS, I am also capable of working on Android and React Native. I specialize in creating seamless, scalable, and efficient mobile applications. 
+Experienced mobile developer (with over 6 years of experience in Android & iOS development). Adept at problem-solving, debugging, optimizing app performance, and continuously learning new technologies to stay ahead in mobile development. I specialize in creating seamless, scalable, and efficient mobile applications. 
 
 Beyond Code:
 <br>When I am not developing apps, I like to watch sci-fi-based TV shows and play cricket.
