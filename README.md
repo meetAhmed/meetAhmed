@@ -17,5 +17,3 @@ api implementation, Unit & UI testing, Analytics, iOS Deployment and CI/CD and m
 
 #### Social Links
 - [LinkedIn](https://www.linkedin.com/in/meet-ahmed-ali/)
-- [Medium](https://medium.com/@codeWithAhmedAli)
-- [Youtube](https://www.youtube.com/@codewithahmedali)
