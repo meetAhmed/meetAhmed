@@ -4,7 +4,7 @@ Beyond Code:
 <br>When I am not developing apps, I like to watch sci-fi-based TV shows and play cricket.
 
 Key Highlights:
-- 7+ years of iOS app development experience.
+- 8+ years of iOS app development experience.
 - Experienced in leading a team.
 - Proven ability to work independently & in teams.
 - Passionate about problem-solving, clean code, and continuous learning.
